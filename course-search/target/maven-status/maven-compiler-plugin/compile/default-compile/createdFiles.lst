@@ -1,0 +1,8 @@
+com\example\coursesearch\config\DataLoader$1.class
+com\example\coursesearch\controller\CourseController.class
+com\example\coursesearch\CourseSearchApplication.class
+com\example\coursesearch\repository\CourseRepository.class
+com\example\coursesearch\service\CourseService$SearchResult.class
+com\example\coursesearch\service\CourseService.class
+com\example\coursesearch\config\DataLoader.class
+com\example\coursesearch\document\CourseDocument.class
